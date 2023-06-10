@@ -6,6 +6,9 @@ Use default Graphics or import your own.
 Game resources can be packed in .zip or .pac files and used crossplattform with Android adapter code
 found in the "android" directory.
 
+Build with Maven. (Not The android directory)
+Run com.crazedout.cosplay.editor.CosPlay
+
 Example game found here: http://crazedout.com/stg/ Java or android.
 
 Good Luck / Fredrik.
