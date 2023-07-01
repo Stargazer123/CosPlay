@@ -8,6 +8,7 @@ found in the "android" directory.
 <p>
 Build with Maven.<br/>
 Run com.crazedout.cosplay.editor.CosPlay<p>
+The specific Android Java code will be uploaded soon...<p>
 
 Example game found here: http://crazedout.com/stg/ Java or android.
 
